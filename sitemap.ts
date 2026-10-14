@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const domain = "https://[YOUR_DOMAIN]";
+const domain = "https://videodownloaderbymbkglobal";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [

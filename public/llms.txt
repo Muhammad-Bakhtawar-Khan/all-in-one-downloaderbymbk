@@ -1,0 +1,19 @@
+# MBK Global
+
+MBK Global is an all-in-one web utility created by Muhammad Bakhtawar Khan. It fetches public video metadata and offers only provider-declared, verified MP4 video downloads when supported.
+
+## Key pages
+
+- https://[YOUR_DOMAIN]/ — MP4 video downloader and FAQ.
+- https://[YOUR_DOMAIN]/profile — Muhammad Bakhtawar Khan profile, official social links, and visual collection.
+
+## Important behavior
+
+- MBK Global does not create fake results, ZIP files, audio-only alternatives, or converted streams.
+- Downloads are available only for public media where an original provider MP4 URL is returned.
+- Users should download only content they own or are authorized to download.
+
+## Contact
+
+- Email: Bakhtawark085@gmail.com
+- Phone: +92 320 0276941
